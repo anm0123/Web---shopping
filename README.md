@@ -1,6 +1,6 @@
 三个页面：登录页面、商品主页、商品详情页
 
-![image](https://github.com/anm0123/Web---shopping/blob/master/shopping/ptojectImg/1.gif)
+![image](https://github.com/anm0123/Web---shopping/blob/master/shopping/ptojectImg/GIF.gif)
 ![image](https://github.com/anm0123/hellogit/blob/master/shopping/ptojectImg/1.png)
 ![image](https://github.com/anm0123/hellogit/blob/master/shopping/ptojectImg/2.png)
 ![image](https://github.com/anm0123/hellogit/blob/master/shopping/ptojectImg/3.png)
